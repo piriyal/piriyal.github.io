@@ -49,7 +49,7 @@ a {
     float: left;
     margin-left: 40px;
     background-color: rgb(37, 126, 118);
-    background-image: url(subject\ pngs/calculator.png);
+    background-image: url(calculator.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -60,7 +60,7 @@ a {
     float: right;
     margin-right: 40px;
     background-color: rgb(62, 117, 129);
-    background-image: url(subject\ pngs/radio-waves.png);
+    background-image: url(radio-waves.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -70,7 +70,7 @@ a {
     float: left;
     margin-left: 40px;
     background-color: rgb(114, 54, 52);
-    background-image: url(subject\ pngs/magnetic-fields.png);
+    background-image: url(magnetic-fields.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -80,7 +80,7 @@ a {
     float: right;
     margin-right: 40px;
     background-color: rgb(83, 54, 114);
-    background-image: url(subject\ pngs/microcontroller.png);
+    background-image: url(microcontroller.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -90,7 +90,7 @@ a {
     float: left;
     margin-left: 40px;
     background-color: rgb(43, 75, 116);
-    background-image: url(subject\ pngs/control-panel.png);
+    background-image: url(control-panel.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -100,7 +100,7 @@ a {
     float: right;
     margin-right: 40px;
     background-color: rgb(124, 98, 42);
-    background-image: url(subject\ pngs/computer.png);
+    background-image: url(computer.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -110,7 +110,7 @@ a {
     float: left;
     margin-left: 40px;
     background-color: rgb(52, 122, 116);
-    background-image: url(subject\ pngs/fuse-box.png);
+    background-image: url(fuse-box.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -120,7 +120,7 @@ a {
     float: right;
     margin-right: 40px;
     background-color: rgb(119, 63, 61);
-    background-image: url(subject\ pngs/dices.png);
+    background-image: url(dices.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -130,7 +130,7 @@ a {
     float: left;
     margin-left: 40px;
     background-color: rgb(60, 103, 112);
-    background-image: url(subject\ pngs/ssd.png);
+    background-image: url(ssd.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -139,7 +139,7 @@ a {
     float: right;
     margin-right: 40px;
     background-color: rgb(57, 89, 131);
-    background-image: url(subject\ pngs/radio-waves\ \(1\).png);
+    background-image: url(radio-waves\ \(1\).png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -149,7 +149,7 @@ a {
     margin-left: 40px;
     margin-bottom: 30px;
     background-color: rgb(128, 103, 49);
-    background-image: url(subject\ pngs/microchip.png);
+    background-image: url(microchip.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }
@@ -159,7 +159,7 @@ a {
     margin-right: 40px;
     margin-bottom: 30px;
     background-color: rgb(84, 56, 114);
-    background-image: url(subject\ pngs/open-book.png);
+    background-image: url(open-book.png);
     background-repeat: no-repeat;
     background-position: right 1vw center;
 }

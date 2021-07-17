@@ -18,3 +18,13 @@ function filterFunction() {
         }
     }
 }
+
+window.onclick = function(event) {
+    if (!event.target.matches(".dropbtn_ece3")) {
+        var dd = document.getElementsByClassName("dropdown-content_ece3")
+        for (var i = 0; i < dd.length; i++) {
+            var x = dd[i];
+            if (x.classList.contains("show_ece3")) { x.classList.remove("show_ece3") }
+        }
+    }
+}
